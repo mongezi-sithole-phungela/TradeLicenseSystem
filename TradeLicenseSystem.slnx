@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TLS.API/TLS.API.csproj" />
+  <Project Path="TLS.Core/TLS.Core.csproj" />
+  <Project Path="TLS.Data/TLS.Data.csproj" />
+  <Project Path="TLS.Shared/TLS.Shared.csproj" />
+</Solution>
